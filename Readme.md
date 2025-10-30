@@ -49,5 +49,5 @@ an LNN ensures the neural outputs **respect** this logical structure while train
 
 ---
 
-## 🧰 Project Structure
+
 
